@@ -122,3 +122,9 @@ The project documentation and planning deliverables were developed by the follow
 | **Chew Chiu Xian** | A23CS0061 | Developer: Member & Savings Modules |
 | **Evelyn Goh Yuan Qi** | A23CS0222 | Developer: User Authentication & Registration Modules |
 | **Dheshighan A/L Saravana Moorthy** | A23CS0072 | Developer: User Authentication & Login Modules |
+
+
+---
+
+## 💭 Course Reflection
+Collaborating on this software engineering repository taught me that clean architecture and clear design patterns (like MVC) are just as important as writing functional code. Developing system requirements and UML diagrams helped align our team's technical implementation with the user's actual needs.
